@@ -1,3 +1,16 @@
+
+## Available Scripts
+
+In the project directory, you can run:
+
+### `npm run dev`
+
+Runs the app in the development mode.\
+Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
 HOME PAGE
 ![React-App](https://github.com/VnTrg85/Booking-Web-FE/assets/118825561/827c36d6-9270-44fc-bda0-f80416eb746a)
 
