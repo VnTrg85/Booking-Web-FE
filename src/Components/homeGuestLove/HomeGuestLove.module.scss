@@ -1,0 +1,70 @@
+.homeGuestLove {
+	width: 100%;
+	max-width: 1024px;
+	display: flex;
+	justify-content: space-between;
+	gap: 20px;
+}
+
+.homeGuestLoveItem {
+	flex: 1;
+	cursor: pointer;
+	border-radius: 10px;
+	overflow: hidden;
+	box-shadow: 0px 1px 2px 0px #ccc;
+}
+.homeGuestLoveInfo {
+	display: flex;
+	flex-direction: column;
+	gap: 10px;
+	margin: 5px;
+}
+.homeGuestLoveImg {
+	width: 100%;
+}
+
+.homeGuestLoveName {
+	font-size: 16px;
+	font-weight: 600;
+}
+.homeGuestLoveCity {
+	font-size: 12px;
+	font-weight: 300;
+}
+.homeGuestLoveRating {
+	display: flex;
+	gap: 10px;
+	align-items: center;
+}
+.homeGuestLoveRating button {
+	width: 25px;
+	height: 25px;
+	border: none;
+	background: #003b95;
+	color: white;
+	border-top-left-radius: 5px;
+	border-top-right-radius: 5px;
+	border-bottom-right-radius: 5px;
+	font-size: 12px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.homeGuestLoveRating span {
+	font-size: 13px;
+}
+.homeGuestLovePrice {
+	display: flex;
+	justify-content: right;
+	align-items: flex-end;
+	font-size: 18px;
+	font-weight: 600;
+	gap: 5px;
+	margin: 0;
+}
+
+.homeGuestLovePrice span {
+	font-weight: 500;
+	opacity: 0.8;
+	font-size: 14px;
+}

@@ -1,0 +1,26 @@
+.property {
+	width: 100%;
+	max-width: 1024px;
+	display: flex;
+	justify-content: space-between;
+	gap: 20px;
+}
+
+.propertyItem {
+	width: 20%;
+	cursor: pointer;
+}
+.propertyImg {
+	width: 100%;
+	border-radius: 10px;
+}
+.propertyTitles h1 {
+	font-size: 18px;
+	margin: 0;
+}
+
+.propertyTitles h2 {
+	font-size: 15px;
+	font-weight: 500;
+	margin: 0;
+}
